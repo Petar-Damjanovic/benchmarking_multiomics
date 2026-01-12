@@ -1,6 +1,6 @@
 # Benchmarking multi-omics on TCGA-BRCA dataset
 
-This repository benchmarks **multi-omics representation learning and classification** on the **TCGA BRCA**
+This repository benchmarks **multi-omics representation learning and classification** on **TCGA BRCA**
 cohort. We compare classification performance and biological interpretability of different integration strategies of baseline logistic regression (LR), PCA LR, **MOFA**-based LR, and **IntegrAO**. 
 
 ---
