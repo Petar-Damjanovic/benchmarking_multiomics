@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+palettable
+matplotlib-venn
+scikit-learn
+scanpy
+muon
+mofax
+mofapy2
+mygene
+torch
+integrao
